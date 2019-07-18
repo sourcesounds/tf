@@ -1,2 +1,2 @@
 # tf
-Team Fortress 2 Voice Files
+Team Fortress 2 Sound Files
